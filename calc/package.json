@@ -1,5 +1,5 @@
 {
-  "name": "calc"
+  "name": "calc",
   "version": "1.0.0",
   "description": "A boilerplate that demonstrates the Node.js container",
   "main": "index.js",
